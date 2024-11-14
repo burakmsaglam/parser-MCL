@@ -15,11 +15,12 @@ using namespace std;
 namespace Parser{
 bool pushed_back = false;
 LexItem pushed_token;
-static LexItem GetNextToken (istream & in, int& line)
-{
-    
+//    static LexItem GetNextToken (istream & in, int& line)
+//    {
+//    // Trying Xcode commit.
+//    }
 }
-}
+
 int main(int argc, char *argv[])
 {
 	int lineNumber = 1;
